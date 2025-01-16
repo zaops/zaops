@@ -12,7 +12,7 @@ Open Source Enthusiast / DevOps Engineer
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,python,bash,mysql,postgres,linux,redis,windows,fastapi)](https://skillicons.dev)
 ### 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,kubernetes,redis,docker,kubernetes,nginx,git,github,gitlab,grafana,githubactions,postman,jenkins,aws,azure,gcp,cloudflare,pycharm,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,kubernetes,redis,docker,kubernetes,nginx,git,github,gitlab,grafana,githubactions,postman,jenkins,aws,ansible,gcp,cloudflare,pycharm,bots)](https://skillicons.dev)
 
 ### 🍏 Contribution
 ![](https://github-readme-stats.vercel.app/api?username=zaops&show_icons=true&theme=dark)
