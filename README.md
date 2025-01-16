@@ -1,6 +1,6 @@
 ## 👋 This is @zaops!
 
-[![X (Twitter)](https://img.shields.io/badge/-Theo_Zhang-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/zaops)
+[![X (Twitter)](https://img.shields.io/badge/-Theo_Zhang-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/theoz404)
 [![email](https://img.shields.io/badge/-zhangzhiaowork@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:zhangzhiaowork@gmail.com)
 
 Open Source Enthusiast / DevOps Engineer
