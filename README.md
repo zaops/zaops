@@ -1,4 +1,4 @@
-# 👋 This is @zaops!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Theo Zhang+😊+;A+OpenSource+Software+Engineering.+✨%F0%9F%91%8B;)](https://git.io/typing-svg)<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LinMoQC&theme=tokyonight&show_icons=true" height="120px" align="right" >
 
 [![X (Twitter)](https://img.shields.io/badge/-Theo_Zhang-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/theoz404)
 [![email](https://img.shields.io/badge/-zhangzhiaowork@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:zhangzhiaowork@gmail.com)
