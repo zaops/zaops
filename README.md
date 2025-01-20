@@ -1,15 +1,3 @@
-<div style="text-align: center; font-family: Arial, sans-serif; color: #333;">
-  <h1 style="font-size: 36px; color: #1D5A76; animation: blink 1s step-end infinite;">Hi there 👋,</h1>
-  <p style="font-size: 36px; color: #1D5A76; font-weight: bold; animation: blink 1s step-end infinite;">This is Theo Zhang 👨‍💻✨</p>
-</div>
-
-<style>
-  @keyframes blink {
-    50% {
-      visibility: hidden;
-    }
-  }
-</style>
 
 [![X (Twitter)](https://img.shields.io/badge/-Theo_Zhang-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/theoz404)
 [![email](https://img.shields.io/badge/-zhangzhiaowork@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:zhangzhiaowork@gmail.com)
